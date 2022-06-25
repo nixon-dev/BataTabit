@@ -1,2 +1,0 @@
-# Batatabit
-My first LandingPage
